@@ -1,14 +1,10 @@
-# telegraph-Image
-
-> 旧版在[static](https://github.com/x-dr/telegraph-Image/tree/static)分支
-
 
 ### Demo
 
-[https://img.131213.xyz](https://img.131213.xyz)
+[https://img.jinb.top](https://img.jinb.top)
 
 ### 测试
-[https://telegraph-image-e49.pages.dev/](https://telegraph-image-e49.pages.dev/)
+
 
 ```
 测试管理员账号：admin
@@ -40,7 +36,7 @@
 
 
 
-1. 点击[Use this template](https://github.com/x-dr/telegraph-Image/generate)按钮创建一个新的代码库。
+1. 点击[Use this template](https://github.com/klxtx/telegraph-img/generate)按钮创建一个新的代码库。
 
 2. 登录到[Cloudflare](https://dash.cloudflare.com/)控制台.
 3. 在帐户主页中，选择`pages`> ` Create a project` > `Connect to Git`
@@ -93,7 +89,7 @@
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=x-dr/telegraph-Image&type=Date)](https://star-history.com/#x-dr/telegraph-Image&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=klxtx/telegraph-img&type=Date)](https://star-history.com/#klxtx/telegraph-img&Date)
 
 
 
